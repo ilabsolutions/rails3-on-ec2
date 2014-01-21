@@ -30,6 +30,11 @@ rubygems/passenger (JM Done)
     #Used same versions as in utility
     rvm rubygems 2.1.11
     gem install passenger -v=4.0.26
+    gem install bundler -v=1.3.5
+
+memcache (JM Done)
+-------------
+    sudo apt-get install memcached
 
 nginx (RG)
 -------------
